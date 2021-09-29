@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![VoidReck's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoidReck)](https://github.com/VoidReck)
+[![VoidReck's GitHub stats](https://readme-stats-jade.vercel.app/api?username=VoidReck&count_private=true)](https://github.com/VoidReck)
 
 
 <!--
