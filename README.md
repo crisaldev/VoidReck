@@ -6,7 +6,7 @@ I'm a full stack developer...
 ## 🛠 Skills
 Javascript, HTML, CSS, NodeJS, MongoDB, C#, ASP.Net, .Net Framework, MySQL, MSSQL
 
-## Other Common Github Profile Sections
+## About
 👩‍💻 I'm currently working on a discord bot and dashboard in NodeJS
 
 🧠 I'm currently learning Junior Cibersecurity in SkillForAll
