@@ -1,7 +1,8 @@
 # Hi, I'm Cristian! 👋
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a full stack developer
+Entry Level Cybersecurity Analyst from Google (Coursera)
 
 ## 🛠 Skills
 Javascript, HTML, CSS, NodeJS, MongoDB, C#, ASP.Net, .Net Framework, MySQL, SQL Server
@@ -9,7 +10,7 @@ Javascript, HTML, CSS, NodeJS, MongoDB, C#, ASP.Net, .Net Framework, MySQL, SQL 
 ## Actually do
 👩‍💻 I'm currently working on a discord bot and dashboard in NodeJS
 
-🧠 I'm currently learning Junior Cibersecurity in SkillForAll and Google (Coursera)
+🧠 I'm currently learning Junior Cibersecurity in SkillForAll
 
 [![VoidReck's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoidReck&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/VoidReck)
 <br>
